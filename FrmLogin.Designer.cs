@@ -113,7 +113,7 @@ namespace Pro01_20CT111
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.Aqua;
+            this.button1.BackColor = System.Drawing.Color.DeepSkyBlue;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.White;
             this.button1.Location = new System.Drawing.Point(480, 570);
